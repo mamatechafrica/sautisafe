@@ -1,0 +1,35 @@
+{
+  "name": "@mamatechafrica/sautisafe",
+  "version": "1.0.0",
+  "description": "Sauti Safe App - Empowering Survivors, Amplifying Voices",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamatechafrica/sautisafe.git"
+  },
+  "keywords": [
+    "gbv",
+    "incident-reporting",
+    "social-good",
+    "safety",
+    "survivors"
+  ],
+  "author": "Naijeria Toweett <naijeria@mamatech.co.ke>",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mamatechafrica/sautisafe/issues"
+  },
+  "homepage": "https://github.com/mamatechafrica/sautisafe#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

@@ -36,6 +36,9 @@ The Sauti Safe App leverages the following technologies:
 - **APIs**: Twilio API (for WhatsApp integration), Google Maps API (for locating nearby resources)  
 - **Security**: Devise gem for authentication, encrypted data storage  
 
+### Related Packages
+- **FitMatch Integration**: This repository is configured to access `@mamatechafrica/fitmatch` package. See [FITMATCH_ACCESS.md](FITMATCH_ACCESS.md) for details.  
+
 ---
 
 ## Getting Started  
